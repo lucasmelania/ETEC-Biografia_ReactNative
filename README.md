@@ -28,7 +28,7 @@ Construir uma tela de aplicativo utilizando os componentes básicos do React Nat
 - Lucas Lopes Melania
 - Daniel Paes
 
----
+--
 
 ### 🚀 Como executar
 
