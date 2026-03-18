@@ -34,4 +34,4 @@ Construir uma tela de aplicativo utilizando os componentes básicos do React Nat
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/etec-biografia-react-native.git
+   git clone https://github.com/lucasmelania/etec-biografia-react-native.git
